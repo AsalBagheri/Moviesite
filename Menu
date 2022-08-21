@@ -31,6 +31,26 @@
         <summary>Contents:</summary>
         Special sauce, mixed cheese, Italian spices, onion rings, 150 grams of marinated veal fillet
     </details>
-    
+    <hr>
+    <h2>Garlic & steak pizza</h2>
+    <img src="/img/سیر و استیک.jpg">
+    <details>
+        <summary>Contents:</summary>
+        Special sauce, mixed cheese, Italian spices, onion rings, 150 grams of marinated veal fillet
+    </details>
+    <hr>
+    <h2>Margherita pizza</h2>
+    <img src="/img/مارگاریتا.jpg">
+    <details>
+        <summary>Contents:</summary>
+        special sauce, special Italian cheese, tomato, aromatic vegetable, thyme
+    </details>
+    <hr>
+    <h2>Margherita pizza</h2>
+    <img src="/img/مارگاریتا.jpg">
+    <details>
+        <summary>Contents:</summary>
+        special sauce, special Italian cheese, tomato, aromatic vegetable, thyme
+    </details>
 </body>
 </html>
